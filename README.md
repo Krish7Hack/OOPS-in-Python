@@ -43,7 +43,8 @@ if __name__ == "__main__":
     account.deposit(500)
     account.withdraw(200)
     print(f"Balance: ${account.get_balance()}")
-## 2. Inheritance
+
+### 2. Inheritance
 
 Inheritance allows one class (child) to inherit properties and methods from another class (parent). It promotes code reuse and establishes a relationship between classes.
 
